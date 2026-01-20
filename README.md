@@ -1,11 +1,5 @@
 # 💫 About Me:
-🔭 I’m Ujjwal Roy, currently working on building responsive web applications that bridge the gap between clean design and efficient logic.<br>
-👯 I’m looking to collaborate on Full Stack projects, specifically those using the MERN or PERN stack, to gain more real-world experience. <br>
-🤝 I’m looking for help with mastering system design and DevOps basics, as I want to understand how to scale my applications properly. <br>
-🌱 I’m currently learning Full Stack Development, focusing on connecting robust backend APIs with dynamic frontend frameworks.<br> 
-💬 Ask me about Java, Python, C, or the fundamentals of Computer Engineering. <br>
-⚡ Fun fact: When I'm not debugging code, I'm likely debugging my sleep schedule or exploring the latest hardware trends in the CE world.
-
+I’m Ujjwal Roy
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwalroy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwal777roy@gmail.com) 
