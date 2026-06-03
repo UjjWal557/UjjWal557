@@ -1,54 +1,65 @@
 # 👋 Hi, I'm Ujjwal Roy
 
-🎓 Computer Engineering Student | 🤖 AI & Web Enthusiast | 📍 India
+🎓 **Computer Engineering Student**
 
-> Building things with code — currently exploring AI, full-stack web development, and databases. Always learning, always shipping.
-
----
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ujjwalroy)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ujjwal777roy@gmail.com)
+Building things with code while exploring web development, software engineering, and AI.
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+- 🎓 Studying Computer Engineering
+- 💻 Building web applications and personal projects
+- 🌱 Currently learning React and Node.js
+- 🤖 Exploring AI tools and automation
+- 📚 Strengthening programming fundamentals through hands-on projects
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UjjWal557&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UjjWal557&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=UjjWal557&theme=tokyonight&hide_border=true" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,js,html,css,react,nodejs,mysql,sqlite,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## 🏆 Top Contributed Repo
+## 📚 Currently Learning
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=UjjWal557&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
+- React ecosystem
+- Backend development with Node.js
+- REST APIs
+- Database design
+- Modern web development practices
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=UjjWal557&icon=2&color=6"/>
-</p>
+## 🚀 Featured Projects
+
+### 🔹 Convergence
+
+AI-based skill gap analyzer that helps identify learning paths and improvement areas.
+
+**Tech Stack:** Python
+
+🔗 Repository: https://github.com/UjjWal557/Convergence
+
+---
+
+### 🔹 MERN_DreamEvents
+
+Full-stack event booking platform built using the MERN stack.
+
+**Tech Stack:** JavaScript, React, Node.js, MongoDB
+
+🔗 Repository: https://github.com/UjjWal557/MERN_DreamEvents
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UjjWal557)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-roy-923037297)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ujjwal777roy@gmail.com)
+
+---
+
+⭐ Thanks for visiting!
